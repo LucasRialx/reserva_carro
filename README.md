@@ -51,8 +51,8 @@ mvn test
 
 ![image](https://github.com/user-attachments/assets/506b2b75-8282-4748-9843-a86100a8e160)
 
-Contribuindo
+## Contribuindo
 Se você deseja contribuir com melhorias ou correções, fique à vontade para abrir uma pull request. Siga as boas práticas de commit e forneça uma descrição clara do que foi alterado.
 
-Licença
+## Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
