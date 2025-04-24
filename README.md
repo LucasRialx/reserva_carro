@@ -26,28 +26,31 @@ Este projeto tem como objetivo oferecer uma plataforma para a reserva de carros.
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/LucasRialx/reserva_carro.git
+   ```
 Navegue até o diretório do projeto:
 
-bash
-Copiar
-Editar
+```bash
 cd reserva_carro
+```
+
 Compile e execute o projeto com o Maven:
 
-bash
-Copiar
-Editar
+```bash
 mvn clean install
 mvn exec:java
+```
+
 Acesse a aplicação em seu navegador, se aplicável, ou siga os passos descritos na documentação para interagir com a aplicação.
 
 Testes
 O projeto inclui testes automatizados utilizando JUnit. Para rodar os testes, use o seguinte comando Maven:
 
-bash
-Copiar
-Editar
+```bash
 mvn test
+```
+
+![image](https://github.com/user-attachments/assets/506b2b75-8282-4748-9843-a86100a8e160)
+
 Contribuindo
 Se você deseja contribuir com melhorias ou correções, fique à vontade para abrir uma pull request. Siga as boas práticas de commit e forneça uma descrição clara do que foi alterado.
 
