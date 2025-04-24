@@ -23,7 +23,7 @@ Este projeto tem como objetivo oferecer uma plataforma para a reserva de carros.
 
 ### Passos
 
-1. Clone o repositório para sua máquina local:
+Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/LucasRialx/reserva_carro.git
    ```
